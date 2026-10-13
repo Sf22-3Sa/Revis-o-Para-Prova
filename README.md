@@ -1,4 +1,4 @@
-algoritmo "desconto_promocional"
+algoritmo "desconto_promocional"                                                                   
 
 var
    valorOriginal, desconto, precoFinal: real
