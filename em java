@@ -1,0 +1,21 @@
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner entrada = new Scanner(System.in);
+
+        double valorOriginal, desconto, precoFinal;
+
+        System.out.print("Digite o valor original do produto: ");
+        valorOriginal = entrada.nextDouble();
+
+        desconto = valorOriginal * 15 / 100;
+        precoFinal = valorOriginal - desconto;
+
+        System.out.println("Valor original: R$ " + valorOriginal);
+        System.out.println("Valor do desconto: R$ " + desconto);
+        System.out.println("Preço final: R$ " + precoFinal);
+
+        entrada.close();
+    }
+}
