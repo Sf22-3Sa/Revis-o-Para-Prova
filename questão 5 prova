@@ -1,0 +1,13 @@
+Algoritmo "lista de nomes"
+Var
+lista, nomes,5;
+Inicio
+escreva ("nomes vetor1..5 de caractere");
+i= inteiro
+para i de 1 até 5 faca
+escreva (" i=nomes");
+escreva ("lista de nomes");
+para i de 1 até 5;
+escreva (nomes[i]);
+fimalgoritmo
+
