@@ -1,0 +1,24 @@
+Algoritmo "estacionamento"
+
+Var
+horas: inteiro
+valor: Real
+Inicio
+escreva(" informe a quantidade de Horas");
+Leia (horas)
+Se Horas <= 2
+Então o valor R$10,00 
+Senão horas<= 5 então
+valor <= R$20,00
+senão 
+escreva ("valor, R$35,00");
+
+Fim algoritmo
+
+
+
+
+
+
+
+
