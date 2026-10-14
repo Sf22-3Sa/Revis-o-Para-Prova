@@ -1,0 +1,22 @@
+Algortimo "contar pares-ìmpares"
+
+Var
+Numero : inteiro
+pares,ímpares: inteiro
+Inicio
+pares<= 0
+ímpares<= 0
+Para i de 1 até 10 faca
+escreva ("numero inteiro");
+Leia Número
+
+Se número mod 2 0 então
+pares <- pares+ 1
+senão 
+ímpares + ímpares+ 1
+escreva ("quantidade de numeros pares");
+escreva (" quantidade de numeros ímpares");
+
+fim algoritmo
+
+
