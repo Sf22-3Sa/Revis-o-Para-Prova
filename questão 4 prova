@@ -1,0 +1,15 @@
+algoritmo (calcule o quadrado do número)
+Var
+numero, resultdao inteiro
+escreva(" digite numero inteiro");
+função "calcular oquadrado", numero inteiro,
+inicio
+retorne
+numero*numero
+fim de funçao
+inicio 
+digite ("numero inteiro");
+Leia numero
+Resultado <- calcular quadrado de número,
+escreva ("o quadrado do número é= resultado");
+ fim algoritmo
